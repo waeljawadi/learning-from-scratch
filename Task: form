@@ -1,0 +1,17 @@
+Create a new from that contains
+1 - field for first name (can't be empty when submit minimum 4 caracters / maximum 15 caracters)
+2 - field for last name (can't be empty when submit minimum 7 caracters / maximum 20 caracters)
+3 - fields for address: 
+      -street : can't be empty / minimum 10 caracters
+      -city : (choose from list / default value: kairouan)
+      -country ( choose from list / default value: Tunis)
+      -zipCode (only number)
+4 - fields for gender (use radio)
+5 - fields for hobbies (use checkbox)
+6 - fields for a description about yourself (cant be empty + maxium 500 caracters)
+7 - submit button
+8 - add a cancel button (when click  an alert apears that says : "submit is cancelled"
+9 - add some styling to the form in a separate file
+
+
+After completing: do some research about this subject "bootStrap"
